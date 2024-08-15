@@ -1,1 +1,1 @@
-# JavaScript-basics
+Basic javascript code and learning repo.
